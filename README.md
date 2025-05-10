@@ -1,16 +1,26 @@
-<<<<<<< HEAD
-# React + Vite
+#Project Overview:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This Expense Tracker application helps users monitor their spending habits with an intuitive interface. Built with React.js for the frontend framework and Tailwind CSS for styling, the app provides powerful <br>financial tracking with a clean, modern design.
 
-Currently, two official plugins are available:
+![Screenshot 2025-05-10 105044](https://github.com/user-attachments/assets/36705975-c55f-4ed0-8df9-0741e3a5b06c)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Expense-Tracker
->>>>>>> b5e2a24edbaa4f5e6a22437e2123e9f094f41a21
+
+#Key Features:<br>
+Expense recording with categories, amounts, dates, and descriptions.<br>
+Visual dashboard with charts and spending summaries.<br>
+Category filtering to analyze spending patterns.<br>
+Responsive design that works across all devices.<br>
+Dark/Light mode toggle for comfortable viewing.<br>
+Local storage to persist data between sessions.<br>
+Export functionality to download expense reports.
+
+#Technologies Used:<br>
+React.js (v18+).<br>
+Tailwind CSS (v3+).<br>
+React Charts or Chart.js for data visualization.<br>
+React Icons for UI elements.<br>
+Date-fns for date handling.<br>
+UUID for unique ID generation.<br>
+React Hook Form for form validation.
